@@ -102,7 +102,7 @@ System dependency: `tesseract-ocr` (install via `apt-get` on Linux/Colab)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/biomedical-ner-comparison.git
+git clone https://github.com/shreyapatilu/biomedical-ner-comparison.git
 cd biomedical-ner-comparison
 ```
 
