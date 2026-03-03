@@ -138,7 +138,7 @@ client = OpenAI(api_key=os.environ["OPENAI_API_KEY"])
 Run locally with Jupyter:
 
 ```bash
-jupyter notebook biomedical_NER_comparison.ipynb
+jupyter notebook biomedical_NER_comparison_github.ipynb
 ```
 
 Or open directly in [Google Colab](https://colab.research.google.com/) by uploading the `.ipynb` file.
