@@ -167,8 +167,8 @@ biomedical-ner-comparison/
 
 ## Background
 
-This project was part of a personal self-learning series exploring NLP in healthcare. The full write-up is available on [LinkedIn](#).
+This project was part of a personal self-learning series exploring NLP in healthcare. The full write-up is available on ([LinkedIn](https://www.linkedin.com/in/shreyapatilu-datascientist/)).
 
-**Paper used:** *Tissue Engineering and Skin Regeneration*. arXiv:2110.03526.
+
 
 
